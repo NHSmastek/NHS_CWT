@@ -8,3 +8,6 @@
 /NHS_CWT_SOL/NHS_CWT/BIN/
 /NHS_CWT_SOL/NHS_CWT/OBJ
 /.vs
+/CWTTestFramework/.vs/CWTTestFramework/v15/.suo
+/CWTTestFramework/CWTTestFramework/obj/Debug
+/CWTTestFramework/Tests/obj/Debug
