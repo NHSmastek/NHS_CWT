@@ -2,7 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/NHS_CWT_SOL/.vs/
 /NHS_CWT_SOL/.vs
 /NHS_CWT_SOL/packages
 /NHS_CWT_SOL/NHS_CWT/BIN/
 /NHS_CWT_SOL/NHS_CWT/OBJ
+/.vs
