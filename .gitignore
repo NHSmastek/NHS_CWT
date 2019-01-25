@@ -3,6 +3,7 @@
 ################################################################################
 
 /NHS_CWT_SOL/.vs/
+/CWTTestFramework/.vs/
 /NHS_CWT_SOL/.vs
 /NHS_CWT_SOL/packages
 /NHS_CWT_SOL/NHS_CWT/BIN/
@@ -13,3 +14,6 @@
 /CWTTestFramework/Tests/obj/Debug
 /CWTTestFramework/CWTTestFramework/obj/Release/CWTTestFramework.csproj.CoreCompileInputs.cache
 /CWTTestFramework/Tests/obj/Release/Tests.csproj.CoreCompileInputs.cache
+/CWTTestFramework/.vs/
+/CWT_Con_Dev_ops_SOL/CWT_Con_Dev/bin/Debug
+/CWT_Con_Dev_ops_SOL/CWT_Con_Dev/obj/Debug
